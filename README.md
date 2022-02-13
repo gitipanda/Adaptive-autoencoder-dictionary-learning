@@ -22,7 +22,7 @@ Original                   |Processed
 ![](demoB0.jpg)            |  ![](demoB1.jpg)
 
 * Details preserved demo
-* 
+
 Original                   |Processed
 :-------------------------:|:-------------------------:
 ![](demoC0.jpg)            |  ![](demoC1.jpg)
