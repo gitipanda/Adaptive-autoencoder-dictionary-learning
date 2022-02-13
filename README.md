@@ -14,14 +14,14 @@ I took Responsibility to solve real-time video denoising and compression problem
 
 Original                   |Processed
 :-------------------------:|:-------------------------:
-![](demoA0.jpg)            |  ![](demoA1.jpg)
+![](images/demoA0.jpg)            |  ![](images/demoA1.jpg)
 
 Original                   |Processed
 :-------------------------:|:-------------------------:
-![](demoB0.jpg)            |  ![](demoB1.jpg)
+![](images/demoB0.jpg)            |  ![](images/demoB1.jpg)
 
 * Details preserved demo
 
 Original                   |Processed
 :-------------------------:|:-------------------------:
-![](demoC0.jpg)            |  ![](demoC1.jpg)
+![](images/demoC0.jpg)            |  ![](images/demoC1.jpg)
