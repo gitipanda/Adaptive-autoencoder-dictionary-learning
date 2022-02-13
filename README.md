@@ -3,9 +3,8 @@ I took Responsibility to solve real-time video denoising and compression problem
 
 * The formulation of the problem can be described as follows:
 
-$min_{D,C} \|img-DC\|_2^2+\lambda \|C\|_1.$
-
-This not only requires the least square fidelity part to be as accurate as possible, and it also requires the coefficients of the representation under the dictionary basis to be sparse. One can use an alternating optimization method to solve the above problems.
+     <img src="https://latex.codecogs.com/svg.image?min_{D,C}&space;\|img-DC\|_2^2&plus;\lambda&space;\|C\|_1" title="min_{D,C} \|img-DC\|_2^2+\lambda \|C\|_1" /></br>
+     This not only requires the least square fidelity part to be as accurate as possible, and it also requires the coefficients of the representation under the   dictionary basis to be sparse. One can use an alternating optimization method to solve the above problems.
 
 * I also investigate a function for noise level dectection. This could help for selection of hyperparameters adaptively based on the image/ video source itself.
 * All the experimental data are sampled from real iphone video sources, so the noise in each image/video source are real and don't necessarily obey any distribution assumptions. 
